@@ -1,0 +1,52 @@
+.ullist{
+    border: 1px;
+    background-color: rgb(156, 255, 255);
+    border-radius: 20px;
+    margin: 4px;
+}
+.forpic{
+    display: flex;
+    justify-content: center;
+}
+.picture{
+    width: 120px;
+   margin-top: 25px;
+}
+.socialmdia{
+    height: 40px;
+    padding: 5px;
+}
+.gmail{
+    padding-left: 3px;
+    text-decoration: none;
+    color: black;
+}
+.alg{
+    text-align: center
+}
+.row1{
+    display: flex;
+    justify-content: center;
+}
+.edu{
+    width: 20em;
+    padding: 10px;
+    
+}
+.card-body{
+    background-color: rgb(28, 129, 159);
+    height: 200px;
+}
+.color{
+    color: rgb(156, 255, 255);
+
+}
+.foot{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#Education{
+    border-color: rgb(28, 129, 159) ;
+    border-width: 2px;
+}
